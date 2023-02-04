@@ -1,0 +1,10 @@
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\bin\Debug\TDD-Sort_Workers.exe.config
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\bin\Debug\TDD-Sort_Workers.exe
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\bin\Debug\TDD-Sort_Workers.pdb
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD-Sort_Workers.csproj.AssemblyReference.cache
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD_Sort_Workers.Form1.resources
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD_Sort_Workers.Properties.Resources.resources
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD-Sort_Workers.csproj.GenerateResource.cache
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD-Sort_Workers.csproj.CoreCompileInputs.cache
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD-Sort_Workers.exe
+C:\Users\IMOE001\source\repos\TDD-Sort_Workers\TDD-Sort_Workers\obj\Debug\TDD-Sort_Workers.pdb
